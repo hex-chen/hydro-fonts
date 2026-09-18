@@ -1,0 +1,8 @@
+{
+  "name": "hydro-fonts",
+  "version": "0.1.0",
+  "description": "Hydro OJ 插件：自托管网页字体（站酷快乐体），public/fonts 下的文件以 /fonts/ 路径提供",
+  "main": "index.ts",
+  "license": "MIT",
+  "peerDependencies": { "hydrooj": "^5.0.0" }
+}
